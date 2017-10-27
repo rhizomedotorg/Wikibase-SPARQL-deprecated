@@ -1,1 +1,1 @@
-# wikibase-local
+# Bringing ✨ to Wikibase
