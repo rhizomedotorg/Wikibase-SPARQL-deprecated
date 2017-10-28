@@ -47,3 +47,7 @@ curl "http://localhost:9999/blazegraph/namespace/kb/sparql"  --data-urlencode "u
 ```
 
 This script could be run as a cronjob for reglar updates.
+
+## Deployment at Rhizome
+
+See [presentation](https://docs.google.com/presentation/d/1rfohNJ9FcUZuhMAzatbISAJlIj-aTMBAzDWMGl3vGr0/edit?usp=sharing) (Google Slides) from [WikidataCon 2017](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Integrating_a_custom_Wikibase_Instance_(Rhizome)_and_Wikidata_via_SPARQL)
