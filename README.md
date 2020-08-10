@@ -1,3 +1,7 @@
+⚠️ **Please Note:** This repository documents a tool developed to generate RDF data dumps from an independently run instance of Wikibase. Today, Rhizome recommends that you either run the [Wikibase Docker distribution](https://github.com/wmde/wikibase-docker/) or get a managed Wikibase at [WbStack](https://www.wbstack.com/). If you specifically are looking to get an RDF dump of your Wikibase, [you should use the `dumpRdf.php`](http://learningwikibase.com/install-wikibase/#exporting-data-as-a-json-or-rdf-dump), which is supplied with Wikibase.
+
+---
+
 # Bringing ✨ to Wikibase
 
 This Python 3 script converts entities from a local Wikibase to RDF (turtle format), ready to be imported into a Blazegraph graph database. It attemps to use the same data structure as Wikidata.
